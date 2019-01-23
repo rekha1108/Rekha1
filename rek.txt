@@ -3,3 +3,5 @@ Kheer
 Pasta
 Chicken
 Mango shake
+pizza 
+beans
